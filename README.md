@@ -25,4 +25,4 @@ Add a Stop button
 Display video duration
 Add support for subtitles
 
-🚀 Created with passion by Arashi ❤️ First Project on Python !
+🚀 Created with passion by ImadK ❤️ First Project on Python !
