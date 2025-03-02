@@ -48,9 +48,6 @@ class MainWindow(QMainWindow):
         # Add video Url
         self.player.setSource(QUrl.fromLocalFile(r"")) # Choose Path if you to load specific video
 
-        # Add File from Directory
-        file_dialog = QFileDialog()
-
         # Create Play, Pause, Stop button
         self.play = QPushButton("▶️")
         self.pause = QPushButton("⏸")
